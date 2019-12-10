@@ -6,4 +6,4 @@ Data Structure and Algorithms analysis
 4-Stack
 5-Queue
 6-Linked List Queue
-7-Hash Tables
+7-Hash Tabless
