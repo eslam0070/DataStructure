@@ -14,8 +14,6 @@ Data Structure
 
 7-Hash Table
 
-8-Refresh Collections
-
 Algorithms analysis
 
 1-Linear Search 
